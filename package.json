@@ -1,0 +1,20 @@
+{
+    "name": "orbi-blocks",
+    "version": "0.0.4",
+    "description": "Collection of customizable blocks for the WordPress Gutenberg Block Editor to create a great website.",
+    "main": "index.js",
+    "scripts": {
+        "start": "wp-scripts start",
+        "build": "wp-scripts build"
+    },
+    "author": "Orbidive",
+    "license": "GPLv3",
+    "devDependencies": {
+        "@wordpress/scripts": "^26.19.0"
+    },
+    "dependencies": {
+        "@fonticonpicker/react-fonticonpicker": "^1.2.0",
+        "@wordpress/blocks": "^12.30.0",
+        "react-select": "^5.8.0"
+    }
+}
