@@ -8,7 +8,7 @@ This plugin uses npm and webpack to build the production files. To build the fil
 
 ### Requirements
 
-Node.js = 21.6.1.x
+Node.js >= 20.x
 
 ### Install
 
@@ -18,12 +18,18 @@ Clone the repository:
 git clone https://github.com/orbidive/orbi-blocks.git
 ```
 
-Navigate to the plugin directory: "cd your-plugin"
+Navigate to the plugin directory: "cd orbi-blocks"
 
 Install dependencies:
 
 ```bash
 npm install
+```
+
+or
+
+```bash
+npm install --force
 ```
 
 ## Development
