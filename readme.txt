@@ -94,7 +94,7 @@ Watch for changes:
 npm start
 ```
 
-Build a production version of WDS Blocks:
+Build a production version of Orbi Blocks:
 
 ```bash
 npm run build
